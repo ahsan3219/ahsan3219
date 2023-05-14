@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ahsanRasa
-- 👀 I’m interested in machine learning 
+- 👀 I'm Chatbot developer expert in gpt-3
+- 📫 I’m interested in machine learning
 - 🌱 I’m currently learning metaverse 
 - 💞️ I’m looking to collaborate on react application development 
 - 📫 How to reach me ahsanrazasyed@gmail.com 
