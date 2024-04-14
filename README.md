@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ahsanRaza
-- 👀 I'm Chatbot developer expert in gpt-3 and dialogflow
-- 📫 I’m using in machine learning for chatbot development
-- 🌱 I’m currently learning metaverse 
-- 💞️ I’m looking to collaborate on react application development 
+- 👋 Hi, I’m @AhsanRaza
+- 👀 I'm an AI Chatbot developer expert in ChatGPT-4 and dialogflow
+- 📫 I’m using machine learning for AI Chatbot development
 - 📫 How to reach me ahsanrazasyed@gmail.com 
 
 <!---
