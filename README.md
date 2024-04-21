@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahsanai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsanai" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ahsan raza syed ahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahsan raza syed ahsan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ahsan-raza-syed-ahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahsan raza syed ahsan" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahsanraza1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahsanraza1" height="30" width="40" /></a>
 <a href="https://www.behance.net/ahsan3219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahsan3219" height="30" width="40" /></a>
 <a href="https://medium.com/@ahsanrazasyedahsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahsanrazasyedahsan" height="30" width="40" /></a>
