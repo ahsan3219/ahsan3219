@@ -1,5 +1,9 @@
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=OPEN+SANS&weight=600&size=25&duration=3000&pause=4000&background=60FF1900&multiline=true&random=false&width=640&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahsan+Raza" alt="Typing SVG" align="center" /></a>
+<center>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=OPEN+SANS&weight=600&size=25&duration=3000&pause=4000&background=60FF1900&multiline=true&random=false&width=640&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahsan+Raza" alt="Typing SVG" align="center" />
+    </a>
 </center>
+
 <h3 align="center">A Proficient Generative AI Engineer specializing in Full Stack Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsan3219&label=Profile%20views&color=0e75b6&style=flat" alt="ahsan3219" /> </p>
