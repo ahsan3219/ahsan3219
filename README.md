@@ -1,6 +1,4 @@
-<h1 align="center"
-  Hi 👋, I'm Ahsan Raza
-</h1>
+<h1 align="center">Hi 👋, I'm Ahsan Raza</h1>
 
 <h3 align="center">A Proficient Generative AI Engineer specializing in Full Stack Development.</h3>
 
