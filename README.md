@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahsanai.netlify.app/](https://ahsanai.netlify.app/)
 
-- 💬 Ask me about **Generative AI, LLM, Gemini-1.5, GPT-4, Llama-3, Huggingface**
+- 💬 Ask me about **Generative AI, LLM, Gemini-2.5 pro, GROK-4, Kimi-k2, Huggingface**
 
 - 📫 How to reach me **ahsanrazasyedahsan@gmail.com**
 
