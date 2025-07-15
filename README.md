@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ahsan3219/ahsan3219/main/shooting_star_background.svg" alt="Shooting Star Background">
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6¢er=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ahsan+Raza+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Ahsan Raza</h1>
 
 <h3 align="center">A Proficient Generative AI Engineer specializing in Full Stack Development.</h3>
 
@@ -22,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahsanai.netlify.app/](https://ahsanai.netlify.app/)
 
-- 💬 Ask me about **Generative AI, LLM, Gemini-2.5 pro, GROK-4, Kimi-k2, Huggingface**
+- 💬 Ask me about **Generative AI, LLM, Gemini-1.5, GPT-4, Llama-3, Huggingface**
 
 - 📫 How to reach me **ahsanrazasyedahsan@gmail.com**
 
@@ -50,6 +44,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsan3219&show_icons=true&locale=en&layout=compact" alt="ahsan3219" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsan3219&show_icons=true&locale=en" alt="ahsan3219" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsan3219&show_icons=true&locale=en" alt="ahsan3219" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsan3219&" alt="ahsan3219" /></p>
