@@ -1,5 +1,3 @@
-# Enhanced GitHub README
-
 <div align="center">
   <div style="position: relative; min-height: 400px; background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%); overflow: hidden; border-radius: 20px; padding: 60px 20px;">
     <!-- Animated Stars Background -->
